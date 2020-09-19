@@ -1,2 +1,1 @@
-
-console.log("From User #");
+console.log('From User #'); 
